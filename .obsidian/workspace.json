@@ -11,13 +11,10 @@
             "id": "c804e8cb77d3ead8",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "未命名 1.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名 1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -77,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7e3d68f4c6c81322",
@@ -180,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
