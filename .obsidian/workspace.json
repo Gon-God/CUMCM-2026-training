@@ -25,14 +25,12 @@
             "id": "29d1328218861499",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "python建模/LaTex公式入门/多行，大括号，矩阵.md",
-                "mode": "source",
-                "source": false
+                "file": "python建模/LaTex公式入门/截图/Pasted image 20260611164207.png"
               },
-              "icon": "lucide-file",
-              "title": "多行，大括号，矩阵"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260611164207"
             }
           }
         ],
@@ -209,17 +207,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d1328218861499",
+  "active": "b698e8a0e4eb0e92",
   "lastOpenFiles": [
-    "python建模/LaTex公式入门/标注符号，箭头.md",
+    "python建模/LaTex公式入门/截图",
     "python建模/LaTex公式入门/多行，大括号，矩阵.md",
-    "Pasted image 20260611174313.png",
-    "Pasted image 20260611174039.png",
+    "python建模/LaTex公式入门/标注符号，箭头.md",
+    "python建模/LaTex公式入门/截图/Pasted image 20260611174313.png",
+    "python建模/LaTex公式入门/截图/Pasted image 20260611174039.png",
     "python建模/LaTex公式入门/运算符.md",
     "python建模/Python基础语法/Matplotlib.md",
     "python建模/LaTex公式入门/上下标， 分式，根式.md",
     "python建模/LaTex公式入门/希腊字母.md",
-    "Pasted image 20260611164207.png",
+    "python建模/LaTex公式入门/截图/Pasted image 20260611164207.png",
     "README.md",
     "python建模/线性规划模型/截图，图片放置/Pasted image 20260610184543.png",
     "python建模/线性规划模型/截图，图片放置/Pasted image 20260610184340.png",
@@ -256,7 +255,6 @@
     "python建模/图论 Graph Theory/NetworkX.md",
     "python建模/非线性规划/非线性规划模型例子.md",
     "python建模/非线性规划/模型与求解.md",
-    "python建模/非线性规划/二次规划模型（QP）.md",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
