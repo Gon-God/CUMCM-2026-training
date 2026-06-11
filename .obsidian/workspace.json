@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "00a1cd4bb5b7ea33",
+    "type": "split",
+    "children": [
+      {
+        "id": "f99d34a0460d4bbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c804e8cb77d3ead8",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "未命名 1.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa119a96acaae6e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "64773a21ded3c66b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b698e8a0e4eb0e92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b3006f51551bcfd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9f1c0e9182ddc065",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7e3d68f4c6c81322",
+    "type": "split",
+    "children": [
+      {
+        "id": "45aa313d05b1b6e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c066d1fd7491a8be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名 1.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 1 的反向链接列表"
+            }
+          },
+          {
+            "id": "1f19103ceff33e4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名 1.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 1 的出链列表"
+            }
+          },
+          {
+            "id": "9748d30c327b6a50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c4a66f624874d28f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7f10936277c19c84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名 1.base",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 1 的大纲"
+            }
+          },
+          {
+            "id": "d00836acaa0be099",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c804e8cb77d3ead8",
+  "lastOpenFiles": [
+    "未命名.base",
+    "未命名 1.base",
+    "未命名 3.canvas",
+    "python建模/整数规划模型/整数线性规划模型.md",
+    "python建模/整数规划模型/比赛项目排序问题.md",
+    "2026-06-10.md",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "python建模/图论 Graph Theory/赋权图.md",
+    "python建模/整数规划模型/截图，图片放置/Pasted image 20260610224223.png",
+    "python建模/整数规划模型/截图，图片放置/Pasted image 20260610231852.png",
+    "python建模/整数规划模型/截图，图片放置/Pasted image 20260610231837.png",
+    "python建模/整数规划模型/截图，图片放置/Pasted image 20260610225413.png",
+    "python建模/整数规划模型/截图，图片放置/Pasted image 20260610225001.png",
+    "TSP模型.md",
+    "python建模/整数规划模型/投资的收益与风险（多目标线性规划）.md",
+    "python建模/整数规划模型/0-1规划问题.md",
+    "python建模/线性规划模型/模型以及相关概念.md",
+    "python建模/线性规划模型/求线性规划的解.md",
+    "python建模/图论 Graph Theory",
+    "python建模/整数规划模型/整数线性规划模型求解.md",
+    "python建模/整数规划模型/截图，图片放置/Pasted image 20260610214735.png",
+    "python建模/整数规划模型/截图，图片放置",
+    "python建模/整数规划模型/截图，图片放置/Pasted image 20260610221511.png",
+    "python建模/整数规划模型/截图，图片放置/Pasted image 20260610220508.png",
+    "python建模/整数规划模型/截图，图片放置/Pasted image 20260610220437.png",
+    "python建模/整数规划模型/截图，图片放置/Pasted image 20260610220408.png",
+    "python建模/整数规划模型"
+  ]
+}

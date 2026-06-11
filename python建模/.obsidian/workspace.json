@@ -1,0 +1,441 @@
+{
+  "main": {
+    "id": "660009f1156c3198",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8800e9794a0399d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f7763bbdab84921",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "ccd1156ace74a8c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python建模/图论 Graph Theory/赋权图.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "赋权图"
+            }
+          },
+          {
+            "id": "1b07037bb658a23b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python建模/非线性规划/模型与求解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "模型与求解"
+            }
+          },
+          {
+            "id": "c007ba03d3a18f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python建模/非线性规划/非线性规划模型例子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "非线性规划模型例子"
+            }
+          },
+          {
+            "id": "b80e3fe7dfe1e3a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python建模/非线性规划/一般非线性规划模型的求解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "一般非线性规划模型的求解"
+            }
+          },
+          {
+            "id": "eef3b4fa48642b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python建模/多目标规划/多目标规划（MP）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "多目标规划（MP）"
+            }
+          },
+          {
+            "id": "97dac2202635f472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python建模/图论 Graph Theory/图与网络基础.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "图与网络基础"
+            }
+          },
+          {
+            "id": "aa757156aa8ff58b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python建模/图论 Graph Theory/NetworkX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NetworkX"
+            }
+          },
+          {
+            "id": "3d114bce2c7a1345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python基础语法/Matplotlib.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matplotlib"
+            }
+          },
+          {
+            "id": "bce4411ca693216e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python基础语法/Matplotlib.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matplotlib"
+            }
+          },
+          {
+            "id": "ba3b90d1161f7e0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性代数模型/奇异值分解/矩阵的奇异值分解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "矩阵的奇异值分解"
+            }
+          },
+          {
+            "id": "476b1958d77c2793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性代数模型/奇异值分解/矩阵的奇异值分解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "矩阵的奇异值分解"
+            }
+          },
+          {
+            "id": "9a3d7433bb5d432e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性代数模型/奇异值分解/图像压缩.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "图像压缩"
+            }
+          },
+          {
+            "id": "3f1fcf876825ec13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性规划模型/模型以及相关概念.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "模型以及相关概念"
+            }
+          },
+          {
+            "id": "6dfbcccb81501768",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "图论 Graph Theory/赋权图.md",
+                "bFile": "图论 Graph Theory/赋权图.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 赋权图  (Working Tree)"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7daad2c10643c02",
+    "type": "split",
+    "children": [
+      {
+        "id": "74ab8b44d48900f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d28101fe3865b15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "567888d81a81ef75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ea6bf90dc88d81a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "26b4e38e786a05d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "87e22adb730e8ffc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2114ebce06e755bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "线性规划模型/求线性规划的解.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "求线性规划的解 的反向链接列表"
+            }
+          },
+          {
+            "id": "79cc0f59f47f24ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python基础语法/未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "3ea10d876fd5882d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "23dc006a20944eb8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e47926241ab5abfc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python基础语法/未命名.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          },
+          {
+            "id": "d7faa13b88ad77a6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 472.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d7faa13b88ad77a6",
+  "lastOpenFiles": [
+    "线性规划模型/求线性规划的解.md",
+    "线性规划模型/模型以及相关概念.md",
+    "线性规划模型/截图，图片放置/Pasted image 20260610184543.png",
+    "线性规划模型/截图，图片放置/Pasted image 20260610184340.png",
+    "线性规划模型/截图，图片放置/Pasted image 20260610184227.png",
+    "线性规划模型/截图，图片放置/Pasted image 20260610184133.png",
+    "线性规划模型/截图，图片放置/Pasted image 20260610184108.png",
+    "线性规划模型/截图，图片放置/Pasted image 20260610184059.png",
+    "线性规划模型/截图，图片放置/Pasted image 20260610184042.png",
+    "线性规划模型/截图，图片放置",
+    "线性规划模型",
+    "线性代数模型/特征值与特征向量模型/截图，图片放置/Pasted image 20260610172251.png",
+    "线性代数模型/特征值与特征向量模型/截图，图片放置/Pasted image 20260610170520.png",
+    "线性代数模型/特征值与特征向量模型/截图，图片放置/Pasted image 20260610172145.png",
+    "线性代数模型/特征值与特征向量模型/截图，图片放置",
+    "线性代数模型/特征值与特征向量模型/差分方程.md",
+    "线性代数模型/特征值与特征向量模型/PageRank算法.md",
+    "线性代数模型/特征值与特征向量模型/Leslie模型.md",
+    "线性代数模型/特征值与特征向量模型",
+    "线性代数模型/奇异值分解/矩阵的奇异值分解.md",
+    "线性代数模型/奇异值分解/推荐系统评分算法.md",
+    "线性代数模型/奇异值分解/截图图片放置",
+    "线性代数模型/奇异值分解/图像压缩.md",
+    "线性代数模型/奇异值分解",
+    "线性代数模型",
+    "README",
+    "Python基础语法/文件操作.md",
+    "Python基础语法/基础数据类型与处理.md",
+    "Python基础语法/函数.md",
+    "Python基础语法/SymPy.md",
+    "Python基础语法/SciPy.md",
+    "Python基础语法/Pandas.md",
+    "Python基础语法/Numby.md",
+    "Python基础语法/Matplotlib.md",
+    "Python基础语法",
+    "Markdown 相关/Markdown 入门语法.md",
+    "Markdown 相关",
+    "python建模/图论 Graph Theory/图的矩阵表示.md",
+    "python建模/图论 Graph Theory/NetworkX.md",
+    "python建模/图论 Graph Theory/图与网络基础.md",
+    "时间序列/未命名.md",
+    "未命名.md",
+    "python建模/图论 Graph Theory/赋权图.md",
+    "python建模/线性代数模型/特征值与特征向量模型/差分方程.md",
+    "投资的收益与风险.md",
+    "python建模/多目标规划/Pareto有效解求解.md",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}
