@@ -34,9 +34,49 @@
               "icon": "lucide-file",
               "title": "最小生成树"
             }
+          },
+          {
+            "id": "18bf026ff8a8a07d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python建模/微分方程/人口预测模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "人口预测模型"
+            }
+          },
+          {
+            "id": "f1958177a4eeaaeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python建模/微分方程/传染病模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "传染病模型"
+            }
+          },
+          {
+            "id": "864909cc38f0286f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "python建模/微分方程/截图/Pasted image 20260612091803.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260612091803"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -209,29 +249,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d1328218861499",
+  "active": "b698e8a0e4eb0e92",
   "lastOpenFiles": [
-    "未命名 1.base",
-    "python建模/图论 Graph Theory/最小生成树.md",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260611225202.png",
-    "python建模/图论 Graph Theory/最短路算法.md",
+    "python建模/微分方程/截图/Pasted image 20260612141454.png",
+    "python建模/微分方程/截图/Pasted image 20260612141440.png",
+    "python建模/微分方程/截图/Pasted image 20260612111158.png",
+    "python建模/微分方程/截图/Pasted image 20260612111112.png",
+    "python建模/微分方程/截图/Pasted image 20260612110102.png",
+    "python建模/微分方程/截图/Pasted image 20260612105848.png",
+    "python建模/微分方程/截图/Pasted image 20260612111522.png",
+    "python建模/微分方程/截图/Pasted image 20260612111511.png",
+    "python建模/微分方程/截图/Pasted image 20260612111434.png",
+    "python建模/微分方程/截图/Pasted image 20260612111426.png",
+    "python建模/微分方程/截图/Pasted image 20260612111410.png",
+    "python建模/微分方程/截图",
+    "未命名.md",
+    "python建模/微分方程/传染病模型.md",
+    "python建模/微分方程/生物种间关系模型.md",
+    "python建模/微分方程/人口预测模型.md",
+    "python建模/微分方程/常微分方程的求解.md",
+    "python建模/LaTex公式入门/多行，大括号，矩阵.md",
+    "python建模/LaTex公式入门/希腊字母.md",
+    "python建模/微分方程/微分方程的概念.md",
     "python建模/非线性规划/非线性规划模型例子.md",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260611223654.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260611223631.png",
+    "python建模/图论 Graph Theory/最小生成树.md",
+    "python建模/微分方程",
+    "未命名 1.base",
+    "python建模/图论 Graph Theory/最短路算法.md",
     "未命名 2.base",
     "未命名.base",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260611222615.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260611222438.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260611222320.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260611222313.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260611222248.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260611222043.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260611221758.png",
     "python建模/图论 Graph Theory/赋权图.md",
     "python建模/图论 Graph Theory/NetworkX.md",
-    "python建模/LaTex公式入门/希腊字母.md",
     "python建模/LaTex公式入门/截图",
-    "python建模/LaTex公式入门/多行，大括号，矩阵.md",
     "python建模/LaTex公式入门/标注符号，箭头.md",
     "python建模/LaTex公式入门/运算符.md",
     "python建模/Python基础语法/Matplotlib.md",
@@ -247,15 +296,7 @@
     "python建模/整数规划模型/投资的收益与风险（多目标线性规划）.md",
     "python建模/整数规划模型/0-1规划问题.md",
     "python建模/整数规划模型",
-    "python建模/线性代数模型/特征值与特征向量模型/截图，图片放置",
     "python建模/线性代数模型/特征值与特征向量模型/差分方程.md",
-    "python建模/线性代数模型/特征值与特征向量模型/PageRank算法.md",
-    "python建模/线性代数模型/特征值与特征向量模型/Leslie模型.md",
-    "python建模/线性代数模型/奇异值分解/推荐系统评分算法.md",
-    "python建模/线性代数模型/奇异值分解/矩阵的奇异值分解.md",
-    "python建模/线性代数模型/奇异值分解/截图图片放置",
-    "python建模/线性代数模型/奇异值分解/图像压缩.md",
-    "python建模/图论 Graph Theory/图的矩阵表示.md",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
