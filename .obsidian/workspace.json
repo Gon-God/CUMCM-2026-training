@@ -39,12 +39,14 @@
             "id": "f3a7805f33b879dd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "插值与拟合/截图/Pasted image 20260613185353.png"
+                "file": "python建模/插值与拟合/最小二乘拟合.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260613185353"
+              "icon": "lucide-file",
+              "title": "最小二乘拟合"
             }
           },
           {
@@ -277,29 +279,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3a7805f33b879dd",
+  "active": "b698e8a0e4eb0e92",
   "lastOpenFiles": [
-    "插值与拟合/截图/Pasted image 20260613211942.png",
-    "插值与拟合/截图/Pasted image 20260613211651.png",
-    "插值与拟合/截图/Pasted image 20260613211532.png",
-    "插值与拟合/截图/Pasted image 20260613210233.png",
-    "插值与拟合/截图/Pasted image 20260613201233.png",
-    "插值与拟合/截图/Pasted image 20260613211506.png",
-    "插值与拟合/截图/Pasted image 20260613211421.png",
-    "插值与拟合/截图/Pasted image 20260613211344.png",
-    "插值与拟合/截图/Pasted image 20260613211042.png",
-    "插值与拟合/截图/Pasted image 20260613211014.png",
-    "插值与拟合/截图/Pasted image 20260613210923.png",
+    "python建模/插值与拟合/插值求解.md",
+    "python建模/插值与拟合/二维插值.md",
+    "python建模/插值与拟合/一维插值.md",
+    "python建模/插值与拟合/截图/Pasted image 20260613185353.png",
+    "python建模/插值与拟合/截图/Pasted image 20260613211942.png",
+    "python建模/插值与拟合/截图/Pasted image 20260613211651.png",
+    "python建模/插值与拟合/截图/Pasted image 20260613211532.png",
+    "python建模/插值与拟合/截图/Pasted image 20260613210233.png",
+    "python建模/插值与拟合/截图/Pasted image 20260613201233.png",
+    "python建模/插值与拟合/截图/Pasted image 20260613211506.png",
+    "python建模/插值与拟合/截图/Pasted image 20260613211421.png",
+    "python建模/插值与拟合/截图/Pasted image 20260613211344.png",
+    "python建模/插值与拟合/截图/Pasted image 20260613211042.png",
     "README.md",
     "插值与拟合/README.md",
-    "插值与拟合/截图",
-    "插值与拟合/最小二乘拟合.md",
-    "插值与拟合/插值求解.md",
-    "插值与拟合/一维插值.md",
-    "插值与拟合/二维插值.md",
+    "python建模/插值与拟合/截图",
+    "python建模/插值与拟合/最小二乘拟合.md",
     "python建模/LaTex公式入门/希腊字母.md",
     "python建模/图论 Graph Theory/关键路径.md",
-    "插值与拟合",
+    "python建模/插值与拟合",
     "python建模/图论 Graph Theory/最大流与最小费用流.md",
     "未命名 1.base",
     "未命名.base",
