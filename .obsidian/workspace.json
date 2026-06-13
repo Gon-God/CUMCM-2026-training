@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,25 +265,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1209897c1f1f0e26",
+  "active": "b698e8a0e4eb0e92",
   "lastOpenFiles": [
-    "python建模/图论 Graph Theory/截图/Pasted image 20260530145608.png",
     "python建模/图论 Graph Theory/关键路径.md",
     "未命名.md",
+    "插值与拟合",
+    "python建模/图论 Graph Theory/截图/Pasted image 20260613182112.png",
+    "python建模/图论 Graph Theory/截图/Pasted image 20260613182031.png",
+    "python建模/图论 Graph Theory/截图/Pasted image 20260613182007.png",
+    "python建模/图论 Graph Theory/截图/Pasted image 20260613181959.png",
+    "python建模/图论 Graph Theory/截图/Pasted image 20260613181233.png",
+    "python建模/图论 Graph Theory/截图/Pasted image 20260613180746.png",
+    "python建模/图论 Graph Theory/截图/Pasted image 20260613180351.png",
+    "python建模/图论 Graph Theory/截图/Pasted image 20260613175648.png",
+    "python建模/图论 Graph Theory/截图/Pasted image 20260530145608.png",
     "python建模/图论 Graph Theory/最大流与最小费用流.md",
     "python建模/图论 Graph Theory/截图/Pasted image 20260613171252.png",
     "README.md",
     "未命名 1.base",
     "未命名.base",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260613165136.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260613164841.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260613164821.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260613164504.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260613162309.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260613162302.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260613161023.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260613154331.png",
-    "python建模/图论 Graph Theory/截图/Pasted image 20260613153111.png",
     "python建模/图论 Graph Theory/图与网络基础.md",
     "python建模/图论 Graph Theory/NetworkX.md",
     "python建模/LaTex公式入门/运算符.md",
@@ -312,7 +312,6 @@
     "python建模/线性规划模型/截图，图片放置",
     "python建模/线性规划模型",
     "python建模/整数规划模型/截图，图片放置",
-    "python建模/整数规划模型",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
