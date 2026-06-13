@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "python建模/图论 Graph Theory/最大流与最小费用流.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "最大流与最小费用流"
             }
           },
           {
@@ -69,16 +69,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python建模/图论 Graph Theory/最大流与最小费用流.md",
+                "file": "python建模/图论 Graph Theory/着色问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "最大流与最小费用流"
+              "title": "着色问题"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7e3d68f4c6c81322",
@@ -251,17 +251,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "864909cc38f0286f",
+  "active": "c804e8cb77d3ead8",
   "lastOpenFiles": [
-    "README.md",
+    "python建模/图论 Graph Theory/最短路算法.md",
+    "python建模/图论 Graph Theory/最小生成树.md",
+    "python建模/图论 Graph Theory/着色问题.md",
     "python建模/图论 Graph Theory/最大流与最小费用流.md",
+    "README.md",
+    "Pasted image 20260530145608.png",
     "python建模/图论 Graph Theory/截图/Pasted image 20260612162058.png",
     "python建模/微分方程/截图/Pasted image 20260612151231.png",
     "python建模/图论 Graph Theory/截图/Pasted image 20260612163107.png",
     "python建模/图论 Graph Theory/截图/Pasted image 20260612162648.png",
     "python建模/图论 Graph Theory/截图/Pasted image 20260612162555.png",
-    "python建模/图论 Graph Theory/着色问题.md",
-    "python建模/图论 Graph Theory/最小生成树.md",
     "python建模/微分方程/差分方程模型.md",
     "python建模/微分方程/常微分方程数值解.md",
     "python建模/微分方程/常微分方程解析解.md",
@@ -272,7 +274,6 @@
     "python建模/微分方程/截图/Pasted image 20260612141454.png",
     "python建模/微分方程/截图/Pasted image 20260612141440.png",
     "python建模/微分方程/截图/Pasted image 20260612111158.png",
-    "python建模/微分方程/截图/Pasted image 20260612111112.png",
     "python建模/微分方程/截图",
     "未命名.md",
     "python建模/微分方程/人口预测模型.md",
@@ -282,7 +283,6 @@
     "python建模/非线性规划/非线性规划模型例子.md",
     "python建模/微分方程",
     "未命名 1.base",
-    "python建模/图论 Graph Theory/最短路算法.md",
     "未命名 2.base",
     "未命名.base",
     "python建模/图论 Graph Theory/赋权图.md",
