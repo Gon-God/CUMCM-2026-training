@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 
 ### 显示中文符号
 ```python
-rcParams['font.sans-serif'] = ['SimHei'] #正常显示中文标签
-rcParams['axes.unicode_minus'] = False #用来正常显示负号
+plt.rcParams['font.sans-serif'] = ['SimHei'] #正常显示中文标签
+plt.rcParams['axes.unicode_minus'] = False #用来正常显示负号
 ```
 
 ### 设置字体大小
@@ -26,6 +26,8 @@ plt.rc('font', size = 16)
 plt.legend()
 ```
 如果不加东西, 就是自动
+
+在plot()里面要加上label才能生效
 
 | 参数               | 说明                | 示例                                                          |
 | ---------------- | ----------------- | ----------------------------------------------------------- |

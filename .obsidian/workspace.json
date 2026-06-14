@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f99d34a0460d4bbb",
+        "id": "1ff34d7c31e471d8",
         "type": "tabs",
         "children": [
           {
-            "id": "c804e8cb77d3ead8",
+            "id": "0cb211f0c32ce858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python建模/图论 Graph Theory/最大流与最小费用流.md",
+                "file": "python建模/数据的描述性统计/假设检验.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "最大流与最小费用流"
-            }
-          },
-          {
-            "id": "1209897c1f1f0e26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python建模/图论 Graph Theory/关键路径.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "关键路径"
-            }
-          },
-          {
-            "id": "f3a7805f33b879dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python建模/插值与拟合/最小二乘拟合.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "最小二乘拟合"
-            }
-          },
-          {
-            "id": "29d1328218861499",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python建模/图论 Graph Theory/最小生成树.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "最小生成树"
-            }
-          },
-          {
-            "id": "18bf026ff8a8a07d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python建模/微分方程/人口预测模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "人口预测模型"
-            }
-          },
-          {
-            "id": "f1958177a4eeaaeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python建模/微分方程/传染病模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "传染病模型"
-            }
-          },
-          {
-            "id": "864909cc38f0286f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python建模/图论 Graph Theory/着色问题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "着色问题"
+              "title": "假设检验"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,27 +196,40 @@
   },
   "active": "b698e8a0e4eb0e92",
   "lastOpenFiles": [
+    "python建模/数据的描述性统计/截图/Pasted image 20260614163336.png",
+    "python建模/数据的描述性统计/截图/Pasted image 20260614163127.png",
+    "python建模/数据的描述性统计/参数估计.md",
+    "python建模/数据的描述性统计/假设检验.md",
+    "python建模/数据的描述性统计/统计基本概念与图.md",
+    "python建模/数据的描述性统计/截图",
+    "python建模/数据的描述性统计/截图/Pasted image 20260614160954.png",
+    "python建模/数据的描述性统计/截图/Pasted image 20260614160239.png",
+    "python建模/数据的描述性统计/截图/Pasted image 20260614155903.png",
+    "python建模/Python基础语法/Matplotlib.md",
+    "python建模/数据的描述性统计/截图/Pasted image 20260614155041.png",
+    "python建模/数据的描述性统计/截图/Pasted image 20260614153927.png",
+    "python建模/数据的描述性统计/scipy.stats库.md",
+    "python建模/数据的描述性统计/截图/Pasted image 20260614152655.png",
+    "python建模/数据的描述性统计/截图/Pasted image 20260614151533.png",
+    "python建模/数据的描述性统计/截图/Pasted image 20260614151510.png",
+    "python建模/数据的描述性统计/截图/Pasted image 20260614151433.png",
+    "python建模/图论 Graph Theory/关键路径.md",
+    "python建模/图论 Graph Theory/着色问题.md",
+    "python建模/微分方程/传染病模型.md",
+    "python建模/微分方程/人口预测模型.md",
+    "python建模/图论 Graph Theory/最大流与最小费用流.md",
+    "python建模/微分方程/差分方程模型.md",
+    "python建模/数据的描述性统计",
+    "python建模/线性代数模型/特征值与特征向量模型/差分方程.md",
+    "python建模/插值与拟合/最小二乘拟合.md",
     "python建模/插值与拟合/插值求解.md",
     "python建模/插值与拟合/二维插值.md",
     "python建模/插值与拟合/一维插值.md",
-    "python建模/插值与拟合/截图/Pasted image 20260613185353.png",
-    "python建模/插值与拟合/截图/Pasted image 20260613211942.png",
-    "python建模/插值与拟合/截图/Pasted image 20260613211651.png",
-    "python建模/插值与拟合/截图/Pasted image 20260613211532.png",
-    "python建模/插值与拟合/截图/Pasted image 20260613210233.png",
-    "python建模/插值与拟合/截图/Pasted image 20260613201233.png",
-    "python建模/插值与拟合/截图/Pasted image 20260613211506.png",
-    "python建模/插值与拟合/截图/Pasted image 20260613211421.png",
-    "python建模/插值与拟合/截图/Pasted image 20260613211344.png",
-    "python建模/插值与拟合/截图/Pasted image 20260613211042.png",
     "README.md",
     "插值与拟合/README.md",
     "python建模/插值与拟合/截图",
-    "python建模/插值与拟合/最小二乘拟合.md",
     "python建模/LaTex公式入门/希腊字母.md",
-    "python建模/图论 Graph Theory/关键路径.md",
     "python建模/插值与拟合",
-    "python建模/图论 Graph Theory/最大流与最小费用流.md",
     "未命名 1.base",
     "未命名.base",
     "python建模/图论 Graph Theory/图与网络基础.md",
@@ -310,22 +238,10 @@
     "python建模/LaTex公式入门/标注符号，箭头.md",
     "python建模/LaTex公式入门/多行，大括号，矩阵.md",
     "python建模/图论 Graph Theory/最短路算法.md",
-    "python建模/图论 Graph Theory/最小生成树.md",
-    "python建模/图论 Graph Theory/着色问题.md",
-    "python建模/微分方程/差分方程模型.md",
-    "python建模/微分方程/常微分方程数值解.md",
-    "python建模/微分方程/常微分方程解析解.md",
-    "python建模/微分方程/生物种间关系模型.md",
-    "python建模/微分方程/传染病模型.md",
-    "python建模/Python基础语法/SymPy.md",
     "python建模/微分方程/截图",
-    "python建模/微分方程/人口预测模型.md",
-    "python建模/微分方程/微分方程的概念.md",
     "python建模/微分方程",
     "未命名 2.base",
     "python建模/LaTex公式入门/截图",
-    "python建模/线性规划模型/截图，图片放置",
-    "python建模/线性规划模型",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
