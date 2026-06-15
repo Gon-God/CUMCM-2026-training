@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python建模/数据的描述性统计/假设检验.md",
+                "file": "python建模/回归分析/一元线性回归模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "假设检验"
+              "title": "一元线性回归模型"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7e3d68f4c6c81322",
@@ -194,25 +195,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b698e8a0e4eb0e92",
+  "active": "0cb211f0c32ce858",
   "lastOpenFiles": [
-    "python建模/数据的描述性统计/截图/Pasted image 20260614163336.png",
-    "python建模/数据的描述性统计/截图/Pasted image 20260614163127.png",
-    "python建模/数据的描述性统计/参数估计.md",
+    "python建模/LaTex公式入门/多行，大括号，矩阵.md",
+    "python建模/回归分析/一元线性回归模型.md",
+    "Pasted image 20260615142206.png",
+    "Pasted image 20260615142125.png",
+    "Pasted image 20260615141848.png",
+    "Pasted image 20260615141840.png",
+    "Pasted image 20260615141735.png",
+    "Pasted image 20260615141706.png",
+    "Pasted image 20260615141243.png",
+    "Pasted image 20260615141209.png",
+    "Pasted image 20260615141015.png",
+    "Pasted image 20260615140945.png",
+    "python建模/回归分析/回归分析的作用.md",
+    "python建模/LaTex公式入门/希腊字母.md",
+    "python建模/数据的描述性统计/方差分析.md",
+    "python建模/回归分析",
     "python建模/数据的描述性统计/假设检验.md",
-    "python建模/数据的描述性统计/统计基本概念与图.md",
-    "python建模/数据的描述性统计/截图",
-    "python建模/数据的描述性统计/截图/Pasted image 20260614160954.png",
-    "python建模/数据的描述性统计/截图/Pasted image 20260614160239.png",
-    "python建模/数据的描述性统计/截图/Pasted image 20260614155903.png",
-    "python建模/Python基础语法/Matplotlib.md",
-    "python建模/数据的描述性统计/截图/Pasted image 20260614155041.png",
-    "python建模/数据的描述性统计/截图/Pasted image 20260614153927.png",
     "python建模/数据的描述性统计/scipy.stats库.md",
-    "python建模/数据的描述性统计/截图/Pasted image 20260614152655.png",
-    "python建模/数据的描述性统计/截图/Pasted image 20260614151533.png",
-    "python建模/数据的描述性统计/截图/Pasted image 20260614151510.png",
-    "python建模/数据的描述性统计/截图/Pasted image 20260614151433.png",
+    "python建模/数据的描述性统计/统计基本概念与图.md",
+    "python建模/数据的描述性统计/参数估计.md",
+    "python建模/数据的描述性统计/截图",
+    "python建模/Python基础语法/Matplotlib.md",
     "python建模/图论 Graph Theory/关键路径.md",
     "python建模/图论 Graph Theory/着色问题.md",
     "python建模/微分方程/传染病模型.md",
@@ -228,20 +234,15 @@
     "README.md",
     "插值与拟合/README.md",
     "python建模/插值与拟合/截图",
-    "python建模/LaTex公式入门/希腊字母.md",
     "python建模/插值与拟合",
     "未命名 1.base",
     "未命名.base",
     "python建模/图论 Graph Theory/图与网络基础.md",
     "python建模/图论 Graph Theory/NetworkX.md",
     "python建模/LaTex公式入门/运算符.md",
-    "python建模/LaTex公式入门/标注符号，箭头.md",
-    "python建模/LaTex公式入门/多行，大括号，矩阵.md",
-    "python建模/图论 Graph Theory/最短路算法.md",
     "python建模/微分方程/截图",
     "python建模/微分方程",
     "未命名 2.base",
-    "python建模/LaTex公式入门/截图",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
