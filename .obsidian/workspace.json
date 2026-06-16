@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "python建模/聚类分析/截图/Pasted image 20260616170233.png"
+                "file": "python建模/聚类分析/截图/Pasted image 20260616202410.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260616170233"
+              "title": "Pasted image 20260616202410"
             }
           }
         ]
@@ -106,20 +106,6 @@
             }
           },
           {
-            "id": "1f19103ceff33e4a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "未命名 1.base",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "未命名 1 的出链列表"
-            }
-          },
-          {
             "id": "9748d30c327b6a50",
             "type": "leaf",
             "state": {
@@ -132,6 +118,20 @@
               },
               "icon": "lucide-tags",
               "title": "标签"
+            }
+          },
+          {
+            "id": "1f19103ceff33e4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python建模/聚类分析/截图/Pasted image 20260616202410.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Pasted image 20260616202410 的出链列表"
             }
           },
           {
@@ -194,19 +194,26 @@
   },
   "active": "b698e8a0e4eb0e92",
   "lastOpenFiles": [
-    "2026-06-16.md",
-    "python建模/聚类分析/截图/Pasted image 20260616170233.png",
-    "python建模/回归分析/截图/Pasted image 20260616163749.png",
-    "python建模/回归分析/截图/Pasted image 20260616163737.png",
-    "python建模/回归分析/截图/Pasted image 20260616163729.png",
-    "python建模/回归分析/截图/Pasted image 20260616163719.png",
+    "python建模/聚类分析/截图/Pasted image 20260616202737.png",
+    "python建模/金融建模/截图/Pasted image 20260616190915.png",
+    "python建模/金融建模/截图/Pasted image 20260616190818.png",
+    "python建模/金融建模/截图/Pasted image 20260616190657.png",
+    "python建模/金融建模/截图/Pasted image 20260616185714.png",
+    "python建模/金融建模/截图.md",
+    "python建模/金融建模/截图",
+    "python建模/金融建模/截图/Pasted image 20260616185603.png",
+    "python建模/聚类分析/R型聚类法.md",
+    "python建模/聚类分析/截图/Pasted image 20260616205522.png",
+    "python建模/聚类分析/截图/Pasted image 20260616205326.png",
+    "python建模/聚类分析/截图/Pasted image 20260616205306.png",
     "python建模/聚类分析/动态聚类法.md",
-    "python建模/聚类分析/截图/Pasted image 20260616174528.png",
+    "python建模/聚类分析/截图/Pasted image 20260616204746.png",
+    "python建模/聚类分析/截图/Pasted image 20260616204743.png",
+    "python建模/金融建模/金融建模.md",
+    "python建模/金融建模/金融建模与金融科技建模.md",
+    "python建模/金融建模",
+    "2026-06-16.md",
     "python建模/聚类分析/系统聚类法.md",
-    "python建模/聚类分析/截图/Pasted image 20260616174157.png",
-    "python建模/聚类分析/截图/Pasted image 20260616174147.png",
-    "python建模/聚类分析/截图/Pasted image 20260616173943.png",
-    "python建模/聚类分析/截图/Pasted image 20260616173623.png",
     "python建模/聚类分析/scipy.cluster.herarchy系统聚类.md",
     "python建模/聚类分析/聚类.ipynb",
     "python建模/聚类分析/聚类.j",
@@ -231,14 +238,8 @@
     "python建模/回归分析/一元线性回归模型.md",
     "python建模/数据的描述性统计/统计基本概念与图.md",
     "python建模/数据的描述性统计/scipy.stats库.md",
-    "python建模/数据的描述性统计/方差分析.md",
-    "python建模/数据的描述性统计/参数估计.md",
-    "python建模/数据的描述性统计/假设检验.md",
     "python建模/回归分析/截图",
-    "python建模/回归分析/回归分析的作用.md",
     "python建模/回归分析",
-    "python建模/数据的描述性统计/截图",
-    "python建模/数据的描述性统计",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
