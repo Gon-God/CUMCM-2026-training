@@ -11,14 +11,14 @@
             "id": "27bc45b2964a7f00",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "python建模/综合评价指标体系/概念.md",
-                "bFile": "python建模/综合评价指标体系/概念.md",
-                "aRef": ""
+                "file": "选拔A题/题目关键要素.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 概念  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "题目关键要素"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:线性",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "python建模/非线性规划/一般非线性规划模型的求解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "一般非线性规划模型的求解 的出链列表"
             }
           },
           {
@@ -193,8 +194,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27bc45b2964a7f00",
+  "active": "b698e8a0e4eb0e92",
   "lastOpenFiles": [
+    "Pasted image 20260628220606.png",
+    "python建模/非线性规划/一般非线性规划模型的求解.md",
+    "选拔A题/题目关键要素.md",
+    "选拔A题",
+    "python建模/非线性规划/模型与求解.md",
+    "python建模/非线性规划/非线性规划模型例子.md",
+    "python建模/线性代数模型/线性规划模型/求线性规划的解.md",
+    "python建模/回归分析/一元线性回归模型.md",
+    "python建模/非线性规划/二次规划模型（QP）.md",
+    "python建模/插值与拟合/二维插值.md",
+    "python建模/插值与拟合/插值求解.md",
+    "python建模/插值与拟合/最小二乘拟合.md",
+    "python建模/插值与拟合/一维插值.md",
     "python建模/回归分析/广义线性回归模型（GLM）.md",
     "python建模/因子分析/截图/Pasted image 20260617111401.png",
     "python建模/Markdown 相关/Markdown 入门语法.md",
@@ -227,20 +241,7 @@
     "python建模/聚类分析/scipy.cluster.herarchy系统聚类.md",
     "python建模/聚类分析/样品或指标间亲疏程度的测度计算.md",
     "python建模/主成分分析/主成分分析的概念与步骤.md",
-    "python建模/Python基础语法/Matplotlib.md",
     "python建模/主成分分析/主成分分析的代码.ipynb",
-    "python建模/判别分析/Fisher判别.md",
-    "python建模/主成分分析",
-    "python建模/判别分析/距离判别法.md",
-    "python建模/聚类分析/R型聚类法.md",
-    "判别分析.md",
-    "python建模/聚类分析/动态聚类法.md",
-    "python建模/金融建模/金融建模与金融科技建模.md",
-    "python建模/金融建模/金融建模.md",
-    "python建模/金融建模/截图.md",
-    "2026-06-16.md",
-    "python建模/聚类分析/系统聚类法.md",
-    "python建模/LaTex公式入门/希腊字母.md",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
